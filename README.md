@@ -1,7 +1,7 @@
 👋 Hi, I’m Ralph
                                                
                                                
-                                               (More👷‍♂️) +  (Less💤) = More Problems-Solved Faster & ✔
+                                               (More👷‍♂️) + (Less💤) = More Problems-Solved Faster
                                                      
 ![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=2EZ-Yo&show_icons=true&theme=dark)
 
