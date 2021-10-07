@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Ralph
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                               (More👷‍♂️) +  (Less💤) = More Problems-Solved Faster & ✔
+                                                     
+![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=2EZ-Yo&show_icons=true&theme=dark)
 
-<!---
-2EZ-Yo/2EZ-Yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>Average Time Spent Programming Last 7 Days:</p><a href="https://wakatime.com/@9428bc72-cd7a-4776-a29e-a6bd77d54e3c"><img src="https://wakatime.com/badge/user/9428bc72-cd7a-4776-a29e-a6bd77d54e3c.svg" alt="Total time coded since Oct 3 2021" /></a>
+
+<hr>
+
+<p>What Programming Languages Do I Use:</p>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9428bc72-cd7a-4776-a29e-a6bd77d54e3c/580e4ca3-4a8e-4e36-b5bb-ee161c8019c3.png" style="height: 500px; width: 600px;"/></a>
+
+
