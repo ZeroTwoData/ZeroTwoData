@@ -1,4 +1,4 @@
-👋 Hi, I’m Ralph
+👋 Hi, I’m Ralph - an aspiring data engineer
                                                
                                                
                                             (More👷‍♂️) + (Less💤) = More Problems-Solved Faster
