@@ -13,4 +13,6 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9428bc72-cd7a-4776-a29e-a6bd77d54e3c/580e4ca3-4a8e-4e36-b5bb-ee161c8019c3.png" style="height: 400px; width: 500px;"/></a>
 
+<hr>
 
+<p>More Info Coming...</p>
