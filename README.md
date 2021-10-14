@@ -15,4 +15,4 @@
 
 <hr>
 
-<p>More Info Coming...</p>
+<p>Programming Certificates (VIA completing Projects)</p>
