@@ -18,6 +18,8 @@
 <p>Programming Certificates (VIA completing Projects)</p>
 <ul>
   <li>https://www.freecodecamp.org/ralphworley</li>
+  
+  <li>(Linked In Learning Certifications comming soon...)</li>
 </ul>
 
 <hr>
