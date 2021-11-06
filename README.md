@@ -28,4 +28,4 @@
 
 <hr>
 
-<p>More Info coming soon...</p>
+<p>More Info coming soon....</p>
