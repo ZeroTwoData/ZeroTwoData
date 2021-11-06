@@ -15,7 +15,7 @@
 
 <hr>
 
-<p>Programming Certificates (VIA completing Projects)</p>
+<p>Programming Certificates</p>
 <ul>
   <li>https://www.freecodecamp.org/ralphworley</li>
   
