@@ -5,7 +5,7 @@
                                                      
 ![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=2EZ-Yo&show_icons=true&theme=dark)
 
-<p>All Time Programming Stats (Click for Avg 7-Day Programming Time):</p><a href="https://wakatime.com/@9428bc72-cd7a-4776-a29e-a6bd77d54e3c"><img src="https://wakatime.com/badge/user/9428bc72-cd7a-4776-a29e-a6bd77d54e3c.svg" alt="Total time coded since Oct 3 2021" /></a>
+<p>All Time Programming Stats (Click for Daily Stats):</p><a href="https://wakatime.com/@9428bc72-cd7a-4776-a29e-a6bd77d54e3c"><img src="https://wakatime.com/badge/user/9428bc72-cd7a-4776-a29e-a6bd77d54e3c.svg" alt="Total time coded since Oct 3 2021" /></a>
 
 <hr>
 
