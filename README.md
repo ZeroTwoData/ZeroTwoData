@@ -1,4 +1,4 @@
-👋 Hi, I’m Ralph - a college student aspiring to become a data engineer
+👋 Hi, I’m Ralph - a college student (currently a junior) aspiring to become a data engineer. My "Road to Becoming A Data Engineer Journey" will be documented everday via my portfoilo website which will be linked below. 
                                                
                                                
                                             (More👷‍♂️) + (Less💤) = More Problems Solved Faster 👍
