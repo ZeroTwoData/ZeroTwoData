@@ -3,7 +3,7 @@
 A college student (currently a junior) aspiring to become a data engineer. My "Road to Becoming A Data Engineer Journey" will be documented everday via my portfoilo website which will be linked below. 
                                                
                                                
-                   If (👷‍=Work , 💤=Sleep)   Then {  (More👷‍♂️) + (Less💤) = More Problems Solved Faster 👍  }
+                   If (👷‍=Work , 💤=Sleep)   Then { (More👷‍♂️) + (-💤) = More Problems Solved Faster 👍 }
                                                      
 ![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroTwoData&show_icons=true&theme=dark)
 
