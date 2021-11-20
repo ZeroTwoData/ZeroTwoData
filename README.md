@@ -1,6 +1,6 @@
 👋 Hi, I’m Ralph 
 
-A college student (currently a junior) aspiring to become a data engineer. Join me on my "Journey to Becoming A Data Engineer," which will be documented everday via my portfoilo website which will be linked below soon!  
+A college student (currently a junior) aspiring to become a data engineer. Join me on my "Journey to Becoming A Data Engineer," which will be documented everday via my portfoilo website which will be linked below soon! For now, follow my journey by checking out my repositories!  
                                                
                                                
                    If (👷‍=Work , 💤=Sleep)   Then { (More👷‍♂️) + (-💤) = More Problems Solved Faster 👍 }
