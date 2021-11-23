@@ -30,4 +30,4 @@ A college student (currently a junior) aspiring to become a data engineer. Join 
 
 <hr>
 
-<p>More Info coming soon....</p>
+<p>More Info coming soon...</p>
